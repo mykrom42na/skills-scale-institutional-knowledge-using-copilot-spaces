@@ -35,6 +35,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] CI configured for tests and lint (DevOps Engineer)
+- [ ] Regular demos scheduled with Product Manager and stakeholders
+- [ ] Risk register updated weekly (Project Manager)
+- [ ] Design reviews scheduled as needed (UX Designer)
+- [ ] Quality metrics tracked and reported (QA Lead)
+- [ ] Business success metrics monitored (Business Analyst)
